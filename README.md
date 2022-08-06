@@ -50,8 +50,18 @@ Instalando MySQLServer
 [Tutorial Windows Server](https://phoenixnap.com/kb/install-mysql-on-windows)
 
 
-Rodando o código Flask
+Linux - Rodando o código Flask
 ````sh
 export FLASK_APP=bbb
 flask run
 ````
+
+Windows - Rodando o código Flask
+````sh
+set FLASK_APP=bbb
+python -m flask run
+````
+
+Iniciando um projeto no GitHub
+[Tutorial Githun](https://docs.github.com/pt/get-started/quickstart/hello-world)
+[Comandos básicos do Git](https://comandosgit.github.io)
