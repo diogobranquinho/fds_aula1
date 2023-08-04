@@ -45,19 +45,10 @@ removendo o ambiente virtual do versionamento (funciona em windows e linux)
 echo 'env' > .gitignore
 ````
 
-criando o arquivo de requirements com as bibliotecas
+criando o arquivo de requirements com as bibliotecas (windows e linux)
 ````sh
 pip freeze > requirements.txt
 ````
-
-Instalando MySQLServer
-
-[Tutorial Ubuntu 20.04](https://phoenixnap.com/kb/install-mysql-ubuntu-20-04)
-
-[Tutorial Windows 10](https://www.lifewire.com/how-to-install-mysql-windows-10-4584021)
-
-[Tutorial Windows Server](https://phoenixnap.com/kb/install-mysql-on-windows)
-
 
 Linux - Rodando o código Flask
 ````sh
@@ -70,6 +61,15 @@ Windows - Rodando o código Flask
 set FLASK_APP=bbb
 python -m flask run
 ````
+
+Instalando MySQLServer
+
+[Tutorial Ubuntu 20.04](https://phoenixnap.com/kb/install-mysql-ubuntu-20-04)
+
+[Tutorial Windows 10](https://www.lifewire.com/how-to-install-mysql-windows-10-4584021)
+
+[Tutorial Windows Server](https://phoenixnap.com/kb/install-mysql-on-windows)
+
 
 Iniciando um projeto no GitHub
 
