@@ -73,6 +73,10 @@ Instalando MySQLServer
 
 Iniciando um projeto no GitHub
 
+[Conetando Github com VSCode] (https://www.youtube.com/watch?v=aXUsh1vDTs8)
+
+[Gerando Chave SSH] (https://www.youtube.com/watch?v=7YVQLZp1jb0)
+
 [Tutorial Github](https://docs.github.com/pt/get-started/quickstart/hello-world)
 
 [Comandos básicos do Git](https://comandosgit.github.io)
